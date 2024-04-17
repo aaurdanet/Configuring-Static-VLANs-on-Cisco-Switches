@@ -3,9 +3,9 @@ This project focuses on configuring static Virtual Local Area Networks (VLANs) o
 
 Files:
 
-    Static Vlans On Cisco Switches.pkt: Cisco Packet Tracer file with the configured LAN model.
+Static Vlans On Cisco Switches.pkt: Cisco Packet Tracer file with the configured LAN model.
 
 How to Explore:
 
-    Open the 'Static Vlans On Cisco Switches' file in Cisco Packet Tracer.
-    Review network topology, screenshots, and IP tables in the Word Document provided.
+Open the 'Static Vlans On Cisco Switches' file in Cisco Packet Tracer.
+Review network topology, screenshots, and IP tables in the Word Document provided.
